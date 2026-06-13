@@ -6,7 +6,7 @@
 >
 > **"Not just Digital Employees, but your Automated Business Empire"**
 
-**AutoForceAI** is an **AI-native, full-stack, enterprise-grade** digital employees platform. Even without deep AI development background, you can use this project to build a complete AI business intelligence system **out of the box**.
+**AutoForceAI** 思渡AI (sdosoft.com) is an **AI-native, full-stack, enterprise-grade** digital employees platform. Even without deep AI development background, you can use this project to build a complete AI business intelligence system **out of the box**.
 
 It is more than just a simple Agent framework; it is a comprehensive solution that deeply integrates **Large Language Models (LLM)**, **Robotic Process Automation (RPA)**, **Enterprise Knowledge Brain (RAG)**, and **Business Systems (BI/ERP/CRM)**. By simulating the learning, thinking, and executing capabilities of human employees, AutoForceAI helps enterprises achieve an **AI-driven closed loop of automated business processes**.
 
